@@ -12,5 +12,4 @@ const FunctionContextA = () => {
         </ColorTheme.Provider>
     )
 }
-
 export default FunctionContextA
